@@ -49,7 +49,7 @@ Search in google for Notepad++
 - Next
 - Next
 - in configuration wizard page "Configure user information'
--   enter Name and Email
+- enter Name and Email
 - !!!!!! *.rs (email that has access to Azure) !!!!!
 - Next
 - Finish
@@ -116,7 +116,9 @@ Search in google for Notepad++
 - Finich
 ## Strat React App  
 - Return to Create-React-App script
+- copy content of 'fdi-web-ui' to one level highter (!!! except file README.md and folder .git !!!)
 - cd fdi-web-ui
+
 - npm start
 - For 'Windows Security Alert' allow "Public networks"
 -  Allow Access
