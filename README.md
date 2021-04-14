@@ -37,29 +37,29 @@ Search in google for Notepad++
 - select 'Download TortoiseGit 2.12.0 - 64-bit (~19.6 MiB)'
 - download
 - install
-  Next
-  Next
-  Next
-  Next
-  Install
-  Finish (with selection 'Run first start wozard'
+- Next
+- Next
+- Next
+- Next
+- Install
+- Finish (with selection 'Run first start wozard'
   
 - First start wizart started
-  Next
-  Next
-  Next
-  in configuration wizard page "Configure user information'
-    enter Name and Email
-  !!!!!! *.rs (email that has access to Azure) !!!!!
-  Next
-  Finish
+- Next
+- Next
+- Next
+- in configuration wizard page "Configure user information'
+-   enter Name and Email
+- !!!!!! *.rs (email that has access to Azure) !!!!!
+- Next
+- Finish
 
 ## Check out
-create foder C:\TalsenTeamCoachingSession_2  
- right click in folder, select 'Git clone...'
- enter URL 'https://github.com/EugenReimer-EH/TalsenTeamCoaching.git'
- click OK
- folder 'TalsenTeamCoaching' shoul be created
+- create foder C:\TalsenTeamCoachingSession_2  
+- right click in folder, select 'Git clone...'
+- enter URL 'https://github.com/EugenReimer-EH/TalsenTeamCoaching.git'
+- click OK
+- folder 'TalsenTeamCoaching' shoul be created
  
 ## React Js
 - search for React js
@@ -69,84 +69,87 @@ create foder C:\TalsenTeamCoachingSession_2
 - select 'Create a New React App'
 - url 'https://reactjs.org/docs/create-a-new-react-app.html' will be opened
 - read instruction, such as :
-  'You’ll need to have Node >= 10.16 and npm >= 5.6 on your machine. To create a project, run:'
+-  'You’ll need to have Node >= 10.16 and npm >= 5.6 on your machine. To create a project, run:'
 - click on 'Node >= 10.16 and npm >= 5.6'
 
 ## Node js
 - node js will be opened
-  https://nodejs.org/en/
+-  https://nodejs.org/en/
 - download LTS verstion by clicking on ' 14.16.1 LTS'
 - download node
 - istall NodeJs
-  Next
-  Accept EULA
-  Next
-  Next
-  Next
-  Next
-  Install
+- Next
+- Accept EULA
+- Next
+- Next
+- Next
+- Next
+- Install
   
 - return to React.Js page
 - open CommandPromt
 - swicht directory to C:\TalsenTeamCoachingSession_2\TalsenTeamCoaching
-  (cd /d C:\TalsenTeamCoachingSession_2\TalsenTeamCoaching)
+- (cd /d C:\TalsenTeamCoachingSession_2\TalsenTeamCoaching)
 - perform setup according to ReactJs web site
-  as name of application select fdi-web-ui
-  npx create-react-app fdi-web-ui
-  Wait ~2-5 min (during installation serch for VS code)
-  cd fdi-web-ui
-  npm start
+- as name of application select fdi-web-ui
+- npx create-react-app fdi-web-ui
+- Wait ~2-5 min (during installation serch for VS code)
+- cd fdi-web-ui
+- npm start
   
- ## Visual Studio Code 
+## Visual Studio Code 
 - search for Visual Studio Code
 - open https://code.visualstudio.com/
 - start installation
-  Accept EULA
-  Next
-  Next
-  in configuration wizard page "Select Additional Tasks'
-    select:
-    Add "Open With Code ...
-    Add "Open With Code ...
-    enter Name and Email
-  Next
-  Install
-  Finish
-  On last page unselect "Launch Vidual Studio Code"
-  Finich
+- Accept EULA
+- Next
+- Next
+- in configuration wizard page "Select Additional Tasks'
+-    select:
+-   Add "Open With Code ...
+-   Add "Open With Code ...
+-   enter Name and Email
+- Next
+- Install
+- Finish
+- On last page unselect "Launch Vidual Studio Code"
+- Finich
 ## Strat React App  
-  Return to Create-React-App script
-   cd fdi-web-ui
-   npm start
-   For 'Windows Security Alert' allow "Public networks"
-   Allow Access
+- Return to Create-React-App script
+- cd fdi-web-ui
+- npm start
+- For 'Windows Security Alert' allow "Public networks"
+-  Allow Access
    
- in default browser opened ReactApp
- usually http://localhost:3000/
- select in WindowsExplorer folder 'fdi-web-ui'
- right click, select open with Code
- change color shema
- File -> Preferences -> Setting
- In search settings type "schemc"
- Set setting "Window: Auto detectColor Scheme"
- Move Side Bar right
- View -> Appearence -> Move Side Bar right
- Close settings
- Close Getting started
+- in default browser opened ReactApp
+- usually http://localhost:3000/
+- select in WindowsExplorer folder 'fdi-web-ui'
+- right click, select open with Code
+- change color shema
+- File -> Preferences -> Setting
+- In search settings type "schemc"
+- Set setting "Window: Auto detectColor Scheme"
+- Move Side Bar right
+- View -> Appearence -> Move Side Bar right
+- Close settings
+- Close Getting started
  
- ## Add header
- Open file XXXXX
- add textXXXXX
- Open file XXXX
- add text XXXXX
- in windows explorer open folder
- C:\TalsenTeamCoachingSession_2\TalsenTeamCoaching
- rights click selecte changed files
- write comment
- click Commin
- select 'Push'
+## Add header
+- Open file XXXXX
+- add textXXXXX
+- Open file XXXX
+- add text XXXXX
+- !!! open README.md !!!
+- write steps that others should make to get your changes
+
+- in windows explorer open folder
+- C:\TalsenTeamCoachingSession_2\TalsenTeamCoaching
+- rights click selecte changed files
+- write comment
+- click Commit
+- select 'Push'
  
- open Tortose Git
+- open Tortose Git
  
  
  
