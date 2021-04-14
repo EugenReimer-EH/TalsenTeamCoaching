@@ -1,1 +1,55 @@
-empty file
+# Installation
+- Search in google for Notepad++
+- Open https://notepad-plus-plus.org/downloads/v7.9.5/
+- Click on download
+- Install Notepad++
+
+- Search for Git for windows
+- Open https://git-scm.com/download/win
+- Download version 2.31.1
+- install
+  Next
+  Next
+  Next
+  Next
+  in setup wizart page "Choosing the default editor used by git?"
+  select 'Notepad++'
+  Next
+  Next
+  Next
+  Next
+  Next
+  in setup wizart page "Choose default behavoir of 'git pull'?"
+  select 'Rebase'
+  Next
+  Next
+  Next
+  Install
+  Wait ...
+  Finish
+
+- search for Tortoise Git
+- open https://tortoisegit.org/docs/tortoisegit/tgit-dug-showlog.html
+- click on 'Download'
+- select 'Download TortoiseGit 2.12.0 - 64-bit (~19.6 MiB)'
+- download
+- install
+  Next
+  Next
+  Next
+  Next
+  Install
+  Finish (with selection 'Run first start wozard'
+  
+- First start wizart started
+  Next
+  Next
+  Next
+  in configuration wizard page "Configure user information' enter Name and Email
+  *.rs (email that has access to Azure)
+  Next
+  Finish
+  
+create foder C:\TalsenTeamCoachingSession_2  
+  
+
